@@ -1,4 +1,3 @@
-# ComandosGit
-Clase Aprendices
-
-Hola clases
+# Aprendices
+## Curso
+### Fundamentos de pogramación
